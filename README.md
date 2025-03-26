@@ -1,6 +1,6 @@
 # Automated Data Drift Monitoring Tool
 
-This project is an industry-grade Python tool designed to automatically detect data drift between a reference dataset and a new dataset. It leverages statistical tests such as the Kolmogorov–Smirnov (KS) test for numeric features and Jensen–Shannon (JS) divergence for both numeric and categorical features. The tool is versatile and can be deployed either as a command-line interface (CLI) application or through a Streamlit web interface.
+This project is designed to automatically detect data drift between a reference dataset and a new dataset. It leverages statistical tests such as the Kolmogorov–Smirnov (KS) test for numeric features and Jensen–Shannon (JS) divergence for both numeric and categorical features. The tool is versatile and can be deployed either as a command-line interface (CLI) application or through a Streamlit web interface.
 
 ## Overview
 
